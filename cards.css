@@ -1,0 +1,11 @@
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+.cardsImg{
+    width: 100px;
+    height: 100px;
+    margin: 1rem 2rem;
+    
+}
